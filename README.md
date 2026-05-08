@@ -23,6 +23,6 @@ I am an **Information Systems Engineering** student at **UTN FRCU** based in Arg
 ---
 
 ### 📫 Connect with me:
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]((https://www.linkedin.com/in/sebastian-albadri-82b203409/))
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sebastian-albadri-82b203409/)
 
 *"The goal is not just to code, but to solve problems through technology."*
